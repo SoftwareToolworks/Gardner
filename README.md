@@ -4,7 +4,6 @@ I created this based on GNU Radio code, and some deque code by Yash Tulsiani.
 
 In main() setup with:   
 ```
-    createQPSKConstellation();
     create_timing_error_detector();
 ```
 Then in your demodulation code:   
