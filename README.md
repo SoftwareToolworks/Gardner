@@ -6,6 +6,10 @@ In main() setup with:
 ```
     create_timing_error_detector();
 ```
+When you're done, use:   
+```
+destroy_timing_error_detector();
+```
 Then in your demodulation code:   
 ```
     /*
