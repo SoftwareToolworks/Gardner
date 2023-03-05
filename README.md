@@ -8,7 +8,7 @@ In main() setup with:
 ```
 When you're done, use:   
 ```
-destroy_timing_error_detector();
+    destroy_timing_error_detector();
 ```
 Then in your demodulation code:   
 ```
